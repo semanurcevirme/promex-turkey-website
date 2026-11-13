@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.promexturkey.com/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.promexturkey.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.promexturkey.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.promexturkey.com/"/>
+  </url>
+
+  <url>
+    <loc>https://www.promexturkey.com/en/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.promexturkey.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.promexturkey.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.promexturkey.com/"/>
+  </url>
+
+  <url><loc>https://www.promexturkey.com/hizmetler/bayi-toplantilari.html</loc></url>
+  <url><loc>https://www.promexturkey.com/en/services/dealer-meetings.html</loc></url>
+  <url><loc>https://www.promexturkey.com/hizmetler/urun-lansman-tanitim.html</loc></url>
+  <url><loc>https://www.promexturkey.com/en/services/product-launches.html</loc></url>
+  <url><loc>https://www.promexturkey.com/hizmetler/kongre-sempozyum.html</loc></url>
+  <url><loc>https://www.promexturkey.com/en/services/congress-symposium.html</loc></url>
+  <url><loc>https://www.promexturkey.com/hizmetler/gala-kurumsal-davetler.html</loc></url>
+  <url><loc>https://www.promexturkey.com/en/services/gala-corporate-dinners.html</loc></url>
+  <url><loc>https://www.promexturkey.com/hizmetler/egitim-motivasyon.html</loc></url>
+  <url><loc>https://www.promexturkey.com/en/services/training-motivation.html</loc></url>
+  <url><loc>https://www.promexturkey.com/hizmetler/dmc.html</loc></url>
+  <url><loc>https://www.promexturkey.com/en/services/dmc.html</loc></url>
+</urlset>

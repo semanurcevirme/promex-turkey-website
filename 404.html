@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sayfa Bulunamadı | PROMEX</title>
+  <meta name="robots" content="noindex, follow" />
+  <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Manrope:wght@400;500;600&display=swap&subset=latin,latin-ext" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <style>
+    .error-page {
+      min-height: 100svh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 40px clamp(16px, 5vw, 80px);
+    }
+    .error-code {
+      font-family: var(--font-serif);
+      font-size: clamp(6rem, 20vw, 14rem);
+      font-weight: 600;
+      line-height: 1;
+      color: rgba(255,255,255,0.04);
+      margin-bottom: 24px;
+    }
+    .error-title {
+      font-family: var(--font-serif);
+      font-size: clamp(1.5rem, 3vw, 2.5rem);
+      font-weight: 500;
+      margin-bottom: 16px;
+    }
+    .error-sub {
+      color: var(--text-secondary);
+      margin-bottom: 40px;
+    }
+  </style>
+</head>
+<body>
+  <a href="#main-content" class="skip-link">İçeriğe geç</a>
+
+  <main id="main-content">
+    <div class="error-page">
+      <div class="error-code" aria-hidden="true">404</div>
+      <h1 class="error-title">Sayfa bulunamadı.</h1>
+      <p class="error-sub">Aradığınız sayfa kaldırılmış, taşınmış veya hiç var olmamış olabilir.</p>
+      <a href="index.html" class="btn btn-primary">Anasayfaya Dön</a>
+    </div>
+  </main>
+</body>
+</html>

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /kvkk.html
+
+Sitemap: https://www.promexturkey.com/sitemap.xml
